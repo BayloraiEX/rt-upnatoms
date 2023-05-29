@@ -1,7 +1,11 @@
-# 𝐑𝐓-𝐔𝐏𝐍𝐀𝐓𝐎𝐌𝐒 | 𝐐𝐁𝐂𝐎𝐑𝐄 | 𝐄𝐘𝐄-𝐓𝐀𝐑𝐆𝐄𝐓
-
+# 𝐑𝐓-𝐔𝐏𝐍𝐀𝐓𝐎𝐌𝐒
+𝗦𝗶𝗺𝗽𝗹𝗲 𝗤𝗕𝗖𝗢𝗥𝗘 𝗝𝗼𝗯 𝗦𝗰𝗿𝗶𝗽𝘁 𝗨𝘀𝗶𝗻𝗴 𝗘𝗬𝗘-𝗧𝗔𝗥𝗚𝗘𝗧
 # Put all images from the images folder into your qb-inventory -> html -> images
 # Copy and Paste the below into your qb-core -> shared -> jobs.lua
+# 𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬
+ -> 𝗾𝗯-𝗰𝗼𝗿𝗲 - https://github.com/qbcore-framework/qb-core
+ -> 𝗾𝗯-𝘁𝗮𝗿𝗴𝗲𝘁 - https://github.com/qbcore-framework/qb-target
+ -> 𝗠𝗟𝗢 - Gabz Up-n-Atom Map
 ```
 ["upnatoms"] = {
 		label = "Up-N-Atoms Employee",
