@@ -3,9 +3,9 @@
 # Put all images from the images folder into your qb-inventory -> html -> images
 # Copy and Paste the below into your qb-core -> shared -> jobs.lua
 # 𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬
- -> 𝗾𝗯-𝗰𝗼𝗿𝗲 - https://github.com/qbcore-framework/qb-core
- -> 𝗾𝗯-𝘁𝗮𝗿𝗴𝗲𝘁 - https://github.com/qbcore-framework/qb-target
- -> 𝗠𝗟𝗢 - Gabz Up-n-Atom Map
+  -> 𝗾𝗯-𝗰𝗼𝗿𝗲 - https://github.com/qbcore-framework/qb-core
+  -> 𝗾𝗯-𝘁𝗮𝗿𝗴𝗲𝘁 - https://github.com/qbcore-framework/qb-target
+  -> 𝗠𝗟𝗢 - Gabz Up-n-Atom Map
 ```
 ["upnatoms"] = {
 		label = "Up-N-Atoms Employee",
