@@ -3,9 +3,9 @@
 # Put all images from the images folder into your qb-inventory -> html -> images
 # Copy and Paste the below into your qb-core -> shared -> jobs.lua
 # 𝐃𝐞𝐩𝐞𝐧𝐝𝐞𝐧𝐜𝐢𝐞𝐬
-  . 𝗾𝗯-𝗰𝗼𝗿𝗲 - https://github.com/qbcore-framework/qb-core
-  . 𝗾𝗯-𝘁𝗮𝗿𝗴𝗲𝘁 - https://github.com/qbcore-framework/qb-target
-  . 𝗠𝗟𝗢 - Gabz Up-n-Atom Map
+  - 𝗾𝗯-𝗰𝗼𝗿𝗲 - https://github.com/qbcore-framework/qb-core
+  - 𝗾𝗯-𝘁𝗮𝗿𝗴𝗲𝘁 - https://github.com/qbcore-framework/qb-target
+  - 𝗠𝗟𝗢 - Gabz Up-n-Atom Map
 ```
 ["upnatoms"] = {
 		label = "Up-N-Atoms Employee",
@@ -102,3 +102,5 @@
 	["atoms-db-chicken-burger-meal"] = {["name"] = "atoms-db-chicken-burger-meal",  ["label"] = "Atoms Double Chicken Burger Meal",["weight"] = 450,["type"] = "item",      ["image"] = "atoms-db-chicken-burger-meal.png",["unique"] = false,["useable"] = true,   ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Contains A Double Chicken Burger, Hashbrown and a Drink"},
 	["atoms-pickle-burger-meal"]     = {["name"] = "atoms-pickle-burger-meal",      ["label"] = "Atoms Pickle Burger Meal", ["weight"] = 300,       ["type"] = "item",      ["image"] = "atoms-pickle-burger-meal.png",["unique"] = false,  ["useable"] = true,     ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Contains A Pickle Burger, Hashbrown and a Drink"},
 ```
+# 𝐃𝐢𝐬𝐜𝐨𝐫𝐝
+https://discord.gg/tbDe9Zjc4e
