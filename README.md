@@ -103,4 +103,4 @@
 	["atoms-pickle-burger-meal"]     = {["name"] = "atoms-pickle-burger-meal",      ["label"] = "Atoms Pickle Burger Meal", ["weight"] = 300,       ["type"] = "item",      ["image"] = "atoms-pickle-burger-meal.png",["unique"] = false,  ["useable"] = true,     ["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Contains A Pickle Burger, Hashbrown and a Drink"},
 ```
 # 𝐃𝐢𝐬𝐜𝐨𝐫𝐝
-https://discord.gg/tbDe9Zjc4e
+https://discord.gg/hya9t8XfH8
